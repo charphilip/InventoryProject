@@ -1,0 +1,26 @@
+,Item ID,Product Name,Quantity in Stock,Quantity Available,Date Expired,Used by,Quantity used,Work Order Day,Work Order Number
+0,1,Vacuum,20,,3/9/2023,,,,
+1,2,Bucket,40,38.0,7/28/2023,Felipe Patino,2.0,2023-07-13,12211212.0
+2,3,Cleaning Rags,100,,5/12/2023,Test Presentation,3.0,2023-07-13,1212131
+3,4,All-purpose cleaner,20,,9/26/2023,,,,
+4,5,Oven cleaner,20,,1/17/2023,,,,
+5,6,Stainless steel cleaner,20,,7/31/2023,,,,
+6,7,Scrubbing sponges,50,,9/29/2023,,,,
+7,8,Microfiber cloths,50,,9/19/2023,,,,
+8,9,Baking soda,10,,1/28/2023,,,,
+9,10,White vinegar,10,,1/6/2023,,,,
+10,11,Toilet brush,20,,7/16/2023,,,,
+11,12,Grout,10,,3/1/2023,,,,
+12,13,Grout brush,10,,9/23/2023,,,,
+13,14,tile cleaner,10,,7/1/2023,,,,
+14,15,Glass cleaner,20,,8/5/2023,,,,
+15,16,Extendable duster,5,,10/12/2023,,,,
+16,17,Broom,15,14.0,8/26/2023,Test Presentation,1.0,2023-07-13,1212131
+17,18,Hand broom,10,,2/7/2023,,,,
+18,19,Dustpan,10,,1/5/2023,,,,
+19,20,Mop,15,,10/19/2023,,,,
+20,21,Paper towels,10,,8/19/2023,,,,
+21,22,GLOVES,20,,8/22/2023,,,,
+22,23,Dust mask,20,,10/15/2023,,,,
+23,24,Shoe covers,20,,6/21/2023,,,,
+25,26,Garbage Bags,20,,7/23/2023,,,,
